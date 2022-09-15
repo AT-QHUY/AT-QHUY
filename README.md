@@ -1,3 +1,8 @@
+# Hi there
+I'm Huy, and i do java web project.
+## Skills and Experience
+* 📱 Restful API web service
+* 💻 HTML, CSS, JS
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nqhuyAt/) 

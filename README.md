@@ -1,5 +1,5 @@
-# Hi there!
-I'm Huy, and i do java web project.
+# Hi there 👋!
+I'm Huy. A student of FPT HCM University, and I do java web project. My future plan is learning spring boot and nodeJS.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nqhuyAt/) 

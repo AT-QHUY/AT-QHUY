@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 I'm Huy, and i do java web project.
 
 ## 🌐Socials

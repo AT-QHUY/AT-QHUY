@@ -11,8 +11,8 @@ I'm Huy. A student of FPT HCM University, and I do java web project. My future p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AT-QHUY&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AT-QHUY&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=AT-QHUY&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=AT-QHUY&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 ---

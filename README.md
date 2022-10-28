@@ -1,5 +1,7 @@
 # Hi there 👋!
-
+ * I'm currently coding an ecomercial website with Spring Boot and React-TypeScript
+ * I'm currently learning at FPT University HCM
+ * Contact me :envelope: nqhuy.toan.cr@gmail.
 ## 💻 My Tech Stacks:
 
 ### Front-end:                                                                                                          
@@ -24,5 +26,3 @@
 [![](https://visitcount.itsvg.in/api?id=AT-QHUY&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐Contact me
-* :envelope: nqhuy.toan.cr@gmail.

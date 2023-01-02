@@ -1,5 +1,5 @@
 # Hi there 👋!
- * I'm currently coding an ecomercial website with Spring Boot and React-TypeScript
+ * I'm currently coding an social media website with NestJS and React(TS)
  * I'm currently learning at FPT University HCM
  * Contact me :envelope: nqhuy.toan.cr@gmail.
 ## 💻 My Tech Stacks:

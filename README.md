@@ -1,8 +1,10 @@
 # Hi there 👋!
- * I'm currently coding an social media website with NestJS and React(TS)
- * I'm currently learning at FPT University HCM
- * Contact me :envelope: nqhuy.toan.cr@gmail.
-## 💻 My Tech Stacks:
+ * My name is Nguyen Quang Huy, graduated student at FPT university HCM.
+ * I have a strong passion for architecture and algorithms in web programming.
+ * I mainly working with Java, NodeJS (for Backend) and ReactJS (for Frontend)
+  
+ * Contact me :envelope: nqhuy.toan.cr@gmail | M: 03733389315 | Linkedin: www.linkedin.com/in/athuy
+ * ## 💻 My Tech Stacks:
 
 ### Front-end:                                                                                                          
  * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

@@ -1,4 +1,4 @@
-"Modern architecture may be the peak, but the climb starts with the fundamentals"
+"Architecture is about the important stuff…whatever that is." --Ralph Johnson
 # Hi there 👋!
  * My name is Nguyen Quang Huy, graduated student at FPT university HCM.
  * I have a strong passion for architecture and algorithms in web programming.

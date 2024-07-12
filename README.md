@@ -1,4 +1,4 @@
-#2 Modern architecture may be the peak, but the climb starts with the fundamentals
+"Modern architecture may be the peak, but the climb starts with the fundamentals"
 # Hi there 👋!
  * My name is Nguyen Quang Huy, graduated student at FPT university HCM.
  * I have a strong passion for architecture and algorithms in web programming.

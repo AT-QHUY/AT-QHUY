@@ -4,7 +4,7 @@
  * I have a strong passion for architecture and algorithms in web programming.
  * I mainly working with Java, NodeJS (for Backend) and ReactJS (for Frontend)
   
- * Contact me :envelope: nqhuy.toan.cr@gmail | M: 03733389315 | Linkedin: www.linkedin.com/in/athuy
+ * Contact me :envelope: nqhuy.toan.cr@gmail | M: 0373339315 | Linkedin: www.linkedin.com/in/athuy
  * ## 💻 My Tech Stacks:
 
 ### Front-end:                                                                                                          
@@ -13,6 +13,7 @@
 
 ### Back-end:
  * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+ * ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  * ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Database:

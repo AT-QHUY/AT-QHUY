@@ -1,5 +1,5 @@
 "Architecture is about the important stuff…whatever that is." --Ralph Johnson
-# ITS HUYN 👋!
+# IT'S HUYN 👋!
  * I have a strong passion for architecture and algorithms in web programming.
  * I mainly working with Java, NodeJS (for Backend) and ReactJS (for Frontend)
   

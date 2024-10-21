@@ -1,6 +1,5 @@
 "Architecture is about the important stuff…whatever that is." --Ralph Johnson
-# Hi there 👋!
- * My name is Nguyen Quang Huy, graduated student at FPT university HCM.
+# ITS HUYN 👋!
  * I have a strong passion for architecture and algorithms in web programming.
  * I mainly working with Java, NodeJS (for Backend) and ReactJS (for Frontend)
   
